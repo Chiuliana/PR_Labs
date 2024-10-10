@@ -32,6 +32,25 @@ if response.status_code == 200:
         link = 'https://999.md' + link_elem['href'].strip() if link_elem else "N/A"
         fuel_type = fuel_elem.text.strip() if fuel_elem else "N/A"
 
+        # Validate name and fuel_type to remove whitespaces
+        name = name.strip()
+        fuel_type = fuel_type.strip()
+
+        # Validate price to ensure it represents an integer
+        if price != "N/A":
+            # Remove spaces and currency symbol, then check if it can be converted to an integer
+            price_cleaned = price.replace('€', '').replace(' ', '').strip()
+            if price_cleaned.isdigit():
+                price = int(price_cleaned)
+            else:
+                price = "N/A"
+        else:
+            price = "N/A"
+
+        # Check if all fields are 'N/A' and skip if true
+        if name == "N/A" and price == "N/A" and link == "N/A" and fuel_type == "N/A":
+            continue
+
         product_info.append({'name': name, 'price': price, 'link': link, 'fuel_type': fuel_type})
 
     for item in product_info:
