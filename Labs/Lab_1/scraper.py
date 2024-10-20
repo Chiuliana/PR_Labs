@@ -1,6 +1,22 @@
 import requests
 from bs4 import BeautifulSoup
 
+def extract_product_description(link):
+    # Send a request to the individual product page
+    product_response = requests.get(link)
+
+    if product_response.status_code == 200:
+        product_soup = BeautifulSoup(product_response.text, 'html.parser')
+
+        description_elem = product_soup.find('div', class_='adPage__content__description grid_18', itemprop='description')
+
+        description = description_elem.text.strip() if description_elem else "N/A"
+
+        return description
+    else:
+        print(f"Failed to access product page: {link}")
+        return "N/A"
+
 # GET Request
 url = "https://999.md/ro/list/transport/cars"
 response = requests.get(url)
@@ -19,7 +35,7 @@ if response.status_code == 200:
     # Store product information
     product_info = []
 
-    # Loop through each product to extract the name, price, link, and fuel type
+    # Loop through each product to extract the name, price, link, fuel type, and description
     for product in products:
         name_elem = product.find('div', class_='ads-list-photo-item-title')
         price_elem = product.find('span', class_='ads-list-photo-item-price-wrapper')
@@ -47,18 +63,31 @@ if response.status_code == 200:
         else:
             price = "N/A"
 
+        # Only extract the description if the link is valid
+        if link != "N/A":
+            description = extract_product_description(link)
+        else:
+            description = "N/A"
+
         # Check if all fields are 'N/A' and skip if true
         if name == "N/A" and price == "N/A" and link == "N/A" and fuel_type == "N/A":
             continue
 
-        product_info.append({'name': name, 'price': price, 'link': link, 'fuel_type': fuel_type})
+        # Append all product info including the description
+        product_info.append({
+            'name': name,
+            'price': price,
+            'link': link,
+            'fuel_type': fuel_type,
+            'description': description
+        })
 
+    # Display the final product info
     for item in product_info:
-        print(
-            f"Product Name: {item['name']}\nPrice: {item['price']}\nLink: {item['link']}\nFuel Type: {item['fuel_type']}\n")
-        print("-----------------------------\n")
-
-    # print(response.text[:1000])  # Print first 1000 characters to verify response
+        print(f"Product Name: {item['name']}\nPrice: {item['price']}\nLink: {item['link']}\nFuel Type: {item['fuel_type']}")
+        print("*****************************\n")
+        print(f"Description: \n{item['description']}")
+        print("\n-----------------------------\n")
 
 else:
     print(f"Failed to access the website. Status code: {response.status_code}")
