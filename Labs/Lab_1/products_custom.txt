@@ -1,0 +1,194 @@
+D:D:k:str(timestamp):v:str(2024-10-24T09:14:03.646441+00:00Z);D:k:str(total_price_eur):v:int(642538);D:k:str(filtered_products):v:L:D:D:k:str(name):v:str(Ford Mondeo, 2016 an);D:k:str(price_mdl):v:int(279980);D:k:str(price_eur):v:int(13999);D:k:str(link):v:str(https://999.md/ro/88085239);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(CREDIT - LEASING - SCHIMB - TRANSFER 
+
+Ofertele de tip - ( Schimb = Auto + $ ) le trimiteți la adres);D:D:k:str(name):v:str(Nissan Qashqai, 2015 an);D:k:str(price_mdl):v:int(219000);D:k:str(price_eur):v:int(10950);D:k:str(link):v:str(https://999.md/ro/48120174);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(STOCURI NOI ZILNIC !!
+
+Consum 5.2L/100km
+
+CEA MAI MARE ALEGERE DE QASHQAI IN MOLDOVA !!!
+
+O GAMĂ ALR);D:D:k:str(name):v:str(Volvo XC40, 2021 an);D:k:str(price_mdl):v:int(393000);D:k:str(price_eur):v:int(19650);D:k:str(link):v:str(https://999.md/ro/87900952);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(Plug-in Hybrid T5 !!
+
+Autonomie de parcurs electric – 45km !!
+
+Anul 2021 !!
+
+– Faruri LED !!
+– Bord );D:D:k:str(name):v:str(Renault Kadjar, 2018 an);D:k:str(price_mdl):v:int(275000);D:k:str(price_eur):v:int(13750);D:k:str(link):v:str(https://999.md/ro/87709089);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Consum 5.2L/100km
+
+- Apple Car Play/Android Auto !!
+- Bord digital !!
+- Clima 2 zone !!
+- Sensori pa);D:D:k:str(name):v:str(Opel Grandland X, 2019 an);D:k:str(price_mdl):v:int(272800);D:k:str(price_eur):v:int(13640);D:k:str(link):v:str(https://999.md/ro/86169697);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(STOCURI NOI Săptămânal !!
+
+GARANȚIE Fără limită de parcurs !!
+
+ !! ANUL 2018 - 2020 !! 
+
+Opel Grandl);D:D:k:str(name):v:str(Nissan Qashqai, 2018 an);D:k:str(price_mdl):v:int(350000);D:k:str(price_eur):v:int(17500);D:k:str(link):v:str(https://999.md/ro/87071823);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(NISSAN QASHQAI 1.6 dCi ACENTA 131 HP Automat
+
+Automobilul este într-o stare 10/10
+La 40.800 km am sc);D:D:k:str(name):v:str(BMW 2 Series, 2019 an);D:k:str(price_mdl):v:int(255000);D:k:str(price_eur):v:int(12750);D:k:str(link):v:str(https://999.md/ro/88449457);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(BMW 2 Series !! E Drive !! 4x4 !!
+
+Plug-in Hybrid !! 
+
+Autonomie de parcurs electric - 41km !!
+
+- Se);D:D:k:str(name):v:str(BMW 2 Series, 2021 an);D:k:str(price_mdl):v:int(299800);D:k:str(price_eur):v:int(14990);D:k:str(link):v:str(https://999.md/ro/88619892);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(BMW 2 Series !! E Drive !! 4x4 !!
+
+Plug-in Hybrid !!
+
+Autonomie de parcurs electric - 41km !!
+
+- Far);D:D:k:str(name):v:str(Renault Grand Scenic);D:k:str(price_mdl):v:int(218000);D:k:str(price_eur):v:int(10900);D:k:str(link):v:str(https://999.md/booster/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mjk3NjQ4MTMsIkMiOnsiciI6MSwiYiI6MTIwLCJjIjo2NTgsInoiOjY1OSwiYSI6Ijg3Mzg0NTg5IiwiaSI6Ijg3LjI0OC4xNzcuMjAwIiwicyI6ImRlc2t0b3AiLCJwIjoiYWRzX2xpc3RfaW5saW5lIiwieCI6IiIsImwiOiI3M2NjNTI0Yy0wMGNmLTQ0NTItOGFkYS1jYzA5NmYwZjY4NzIiLCJlIjoiODcuMjQ4LjE3Ny4yMDAiLCJnIjoibGl0ZSIsInQiOiIyMDI0LTEwLTI0VDA5OjEzOjMzLjMwNjQzMTc1OFoifX0.0nHbovyMMWNN1C4ivOSSIGP1yabfwj7d_EpsquDiSvs);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(N/A);D:D:k:str(name):v:str(BMW 2 Series, 2019 an);D:k:str(price_mdl):v:int(279000);D:k:str(price_eur):v:int(13950);D:k:str(link):v:str(https://999.md/ro/86082819);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(STOCURI NOI ZILNIC !!
+
+STOC NOU !! ACUM IMPORTATE DIN EUROPA !!  CREDIT - LEASING - TRANSFER !! 
+
+CE);D:D:k:str(name):v:str(Volkswagen Jetta, 2018 an);D:k:str(price_mdl):v:int(303980);D:k:str(price_eur):v:int(15199);D:k:str(link):v:str(https://999.md/ro/88376129);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(_______________ATENȚIE !________________
+
+
+IMPORTANT ------> *Ne aflăm pe str. Calea Moșilor 2/1 (Ga);D:D:k:str(name):v:str(Nissan Qashqai, 2018 an);D:k:str(price_mdl):v:int(279980);D:k:str(price_eur):v:int(13999);D:k:str(link):v:str(https://999.md/ro/88342930);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(_______________ATENȚIE !________________
+
+
+IMPORTANT ------> *Ne aflăm pe str. Calea Moșilor 2/1 (Ga);D:D:k:str(name):v:str(Volkswagen Jetta, 2013 an);D:k:str(price_mdl):v:int(159980);D:k:str(price_eur):v:int(7999);D:k:str(link):v:str(https://999.md/ro/87657228);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(WV GETTA, ANUL 2013
+- Masina este într-o stare ideală
+- Km originali 
+- Model European
+
+Mai multe of);D:D:k:str(name):v:str(Toyota Auris, 2008 an);D:k:str(price_mdl):v:int(132000);D:k:str(price_eur):v:int(6600);D:k:str(link):v:str(https://999.md/ro/88653361);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Masina in stare tehnica foarte bună!!! Anul 2008, cutia robot, combustibil motorina. Foarte Economă!);D:D:k:str(name):v:str(Dacia Duster, 2011 an);D:k:str(price_mdl):v:int(169980);D:k:str(price_eur):v:int(8499);D:k:str(link):v:str(https://999.md/ro/88590423);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(DACIA DUSTER 1.5DCI 4x4
+COMPLECTATIE BOGATA 
+.........
+
+
+
+ACHITARE-CASH-CREDIT-SCHIMB(Trade-in)
+TRAN);D:D:k:str(name):v:str(Peugeot 3008, 2018 an);D:k:str(price_mdl):v:int(299800);D:k:str(price_eur):v:int(14990);D:k:str(link):v:str(https://999.md/ro/88134483);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 867469
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Peugeot 3008, 1.5 Die);D:D:k:str(name):v:str(Lexus RX Series, 2005 an);D:k:str(price_mdl):v:int(158000);D:k:str(price_eur):v:int(7900);D:k:str(link):v:str(https://999.md/ro/83097623);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Masina in stare buna din minusuri se vad pe poze pe exterior in rest lucreaza tot gaz benzina acte p);D:D:k:str(name):v:str(Toyota Yaris, 2019 an);D:k:str(price_mdl):v:int(239800);D:k:str(price_eur):v:int(11990);D:k:str(link):v:str(https://999.md/ro/88288725);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(Cod produs: 926692
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Toyota Yaris, 1.5 Hyb);D:D:k:str(name):v:str(Ford Focus, 2015 an);D:k:str(price_mdl):v:int(159800);D:k:str(price_eur):v:int(7990);D:k:str(link):v:str(https://999.md/ro/87424636);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 738278
+
+Ford Focus, 1.5 Diesel 120 C.P., Anul 2015
+
+- SONY audio sistem
+- Cruise control);D:D:k:str(name):v:str(BMW X1, 2021 an);D:k:str(price_mdl):v:int(379800);D:k:str(price_eur):v:int(18990);D:k:str(link):v:str(https://999.md/ro/88105102);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(Cod produs: 350447
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+BMW X1, xDrive, 1.5 P);D:D:k:str(name):v:str(Mitsubishi Outlander, 2014 an);D:k:str(price_mdl):v:int(255980);D:k:str(price_eur):v:int(12799);D:k:str(link):v:str(https://999.md/ro/88204829);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(PLUG-IN CU CABLU PENTRU INCARCARE LA 220W
+-ÎNCĂLZIRE LA SCAUNE, SENZORI DE PARCARE FAȚĂ/SPATE, ACOPE);D:D:k:str(name):v:str(BMW X1, 2019 an);D:k:str(price_mdl):v:int(349800);D:k:str(price_eur):v:int(17490);D:k:str(link):v:str(https://999.md/ro/88335896);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 239850
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+BMW X1, 1.5 Diesel, A);D:D:k:str(name):v:str(Hyundai Tucson, 2016 an);D:k:str(price_mdl):v:int(289000);D:k:str(price_eur):v:int(14450);D:k:str(link):v:str(https://999.md/ro/88750160);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(К заказу доступен автомобиль Hyundai Tucson 2016 года из Кореи!
+
+В стоимость входит: покупка автомоб);D:D:k:str(name):v:str(BMW 3 Series, 2016 an);D:k:str(price_mdl):v:int(326000);D:k:str(price_eur):v:int(16300);D:k:str(link):v:str(https://999.md/ro/88392539);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Bmw F30 328i xDrive 8hp
+
+Электро сиденья с памятью и подогревом
+Электро складные зеркала
+Большой мон);D:D:k:str(name):v:str(BMW 3 Series, 2017 an);D:k:str(price_mdl):v:int(358000);D:k:str(price_eur):v:int(17900);D:k:str(link):v:str(https://999.md/ro/88367645);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Bmw F30 330i xDrive B48 8hp
+
+Apple Carplay
+Фары Led
+Мёртвые зоны
+Камера
+Парктроники
+Авто дальний
+Пам);D:D:k:str(name):v:str(Renault Megane, 2017 an);D:k:str(price_mdl):v:int(220000);D:k:str(price_eur):v:int(11000);D:k:str(link):v:str(https://999.md/ro/88634171);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(N/A);D:D:k:str(name):v:str(Suzuki XL-7, 2008 an);D:k:str(price_mdl):v:int(136000);D:k:str(price_eur):v:int(6800);D:k:str(link):v:str(https://999.md/ro/82189598);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Продаётся автомобиль SUZUKI  2008г, требуется рихтовка или замена двух дверей правой стороны.);D:D:k:str(name):v:str(BMW 3 Series, 2016 an);D:k:str(price_mdl):v:int(310000);D:k:str(price_eur):v:int(15500);D:k:str(link):v:str(https://999.md/ro/88410331);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Bmw F30 328i xDrive 8hp
+
+Электро сиденья с памятью и подогревом
+Фары full led
+Противотуманные фары l);D:D:k:str(name):v:str(Toyota Avensis, 2007 an);D:k:str(price_mdl):v:int(138000);D:k:str(price_eur):v:int(6900);D:k:str(link):v:str(https://999.md/ro/87445051);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Vând Toyota Avensis 2007, motor - 3ZZ-FE 1.6 (un motor foarte bun, ieftin de întreținut, fiabil!). K);D:D:k:str(name):v:str(Volkswagen Passat, 2017 an);D:k:str(price_mdl):v:int(340000);D:k:str(price_eur):v:int(17000);D:k:str(link):v:str(https://999.md/ro/83831067);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(Mașină personală. Stare tehnică perfectă.
+Completație maximală.
+Testarea tehnică și asigurarea - 11.);D:D:k:str(name):v:str(Mercedes C-Class, 2005 an);D:k:str(price_mdl):v:int(100000);D:k:str(price_eur):v:int(5000);D:k:str(link):v:str(https://999.md/ro/88742511);D:k:str(fuel_type):v:str(N/A);D:k:str(description):v:str(С-180 рестайлинг вложение не требует  небольшой торг у капота 068495024);D:D:k:str(name):v:str(Toyota Verso, 2012 an);D:k:str(price_mdl):v:int(179980);D:k:str(price_eur):v:int(8999);D:k:str(link):v:str(https://999.md/ro/87606234);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(TOYOTA VERSO 1.8AUTOMAT2012 
+7LOCURI STARE FT BUNA 
+COMPLECTATIE SOLL 
+OFERIM INMATRICULARE GRATIS 
+);D:D:k:str(name):v:str(Peugeot 3008, 2018 an);D:k:str(price_mdl):v:int(279800);D:k:str(price_eur):v:int(13990);D:k:str(link):v:str(https://999.md/ro/87177060);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 631812
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Peugeot 3008, 1.5 Die);D:D:k:str(name):v:str(Nissan Qashqai, 2015 an);D:k:str(price_mdl):v:int(229800);D:k:str(price_eur):v:int(11490);D:k:str(link):v:str(https://999.md/ro/87860701);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 732958
+
+Nissan Qashqai, 1.5 Diesel, Anul 2015
+
+- Cruise control
+- Senzori parcare față /);D:D:k:str(name):v:str(Renault Kadjar, 2015 an);D:k:str(price_mdl):v:int(237000);D:k:str(price_eur):v:int(11850);D:k:str(link):v:str(https://999.md/ro/88090363);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(RENAULT KADJAR 1.5DCI AUTOMAT 
+COMPLECTATIE BUSSINES-LINE 
+STARE TEHNICA FT BUNA 
+CONSUM 5.5L/100KM
+);D:D:k:str(name):v:str(Volkswagen Touran, 2010 an);D:k:str(price_mdl):v:int(127000);D:k:str(price_eur):v:int(6350);D:k:str(link):v:str(https://999.md/ro/86270828);D:k:str(fuel_type):v:str(Gaz/Benzinā);D:k:str(description):v:str(VW TOURAN 1.4TSI AUTOMAT 2010
+STARE TEHNICA FT BUNA 
+OFERIM INMATRICULARE GRATUIT 
+POSIBIL SCHIMB CU);D:D:k:str(name):v:str(Peugeot 3008, 2018 an);D:k:str(price_mdl):v:int(329800);D:k:str(price_eur):v:int(16490);D:k:str(link):v:str(https://999.md/ro/87276079);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 169588
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Peugeot 3008, 1.5 Die);D:D:k:str(name):v:str(Ford Focus, 2016 an);D:k:str(price_mdl):v:int(139980);D:k:str(price_eur):v:int(6999);D:k:str(link):v:str(https://999.md/ro/88165443);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(FORD FOCUS 1.0SCTI AN 2016 
+RECENT IMPORTAT DIN ELVETIA 
+KM ORIGINALI COMPLECTATIE MAXIMA
+OFERIM INM);D:D:k:str(name):v:str(Ford Focus, 2018 an);D:k:str(price_mdl):v:int(249980);D:k:str(price_eur):v:int(12499);D:k:str(link):v:str(https://999.md/ro/88201462);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(FORD FOCUS 1.5TDCI AUTOMAT
+ULTIMUL MODEL 2018 
+COMPLECTATIE MAXIMALA 
+OFERIM INMATRICULARE GRATUIT 
+);D:D:k:str(name):v:str(Renault Megane, 2015 an);D:k:str(price_mdl):v:int(149000);D:k:str(price_eur):v:int(7450);D:k:str(link):v:str(https://999.md/ro/88528314);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(RENAULT MEGANE III 1.5DCI AN 2015
+RECENT IMPORTATA IDN BELGIA 
+STARE TEHNICA FT BUNA 
+OFERIM INMATRI);D:D:k:str(name):v:str(Volkswagen Passat, 2014 an);D:k:str(price_mdl):v:int(215000);D:k:str(price_eur):v:int(10750);D:k:str(link):v:str(https://999.md/ro/88374945);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(VW PASSAT 2.0TDI AUTOMAT 2014
+ADUSA DIN CANADA INTREAGA 
+STARE IMPECABILA FARA DEFECTE 
+CODUL VIN : );D:D:k:str(name):v:str(Mercedes E-Class, 2015 an);D:k:str(price_mdl):v:int(295980);D:k:str(price_eur):v:int(14799);D:k:str(link):v:str(https://999.md/ro/88714171);D:k:str(fuel_type):v:str(Gaz/Benzinā);D:k:str(description):v:str(_______________ATENȚIE !________________
+
+
+IMPORTANT ------> *Ne aflăm pe str. Calea Moșilor 2/1 (Ga);D:D:k:str(name):v:str(Nissan Qashqai, 2018 an);D:k:str(price_mdl):v:int(289800);D:k:str(price_eur):v:int(14490);D:k:str(link):v:str(https://999.md/ro/87321570);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 454432
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Nissan Qashqai, 1.5 D);D:D:k:str(name):v:str(Ford Focus, 2014 an);D:k:str(price_mdl):v:int(125000);D:k:str(price_eur):v:int(6250);D:k:str(link):v:str(https://999.md/ro/87595339);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(FORD FOCUS 1.0SCTI AN 2014
+RECENT IMPORTAT DIN ELVETIA 
+STARE TEHNICA IDEALA 
+LANT ULEI FILTRE TOT N);D:D:k:str(name):v:str(Toyota Avensis, 2012 an);D:k:str(price_mdl):v:int(179980);D:k:str(price_eur):v:int(8999);D:k:str(link):v:str(https://999.md/ro/87594943);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(TOYOTA AVENSIS 1.8AN 2012
+MODEL EUROPEAN STARE FT BUNA 
+CUTIE MANUAL COMPLECTATIE BUNA
+OFERIM INMATR);D:D:k:str(name):v:str(Peugeot 3008, 2018 an);D:k:str(price_mdl):v:int(299000);D:k:str(price_eur):v:int(14950);D:k:str(link):v:str(https://999.md/ro/87787823);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Consum 5.4L/100km
+
+- Tablou de bord digital i-Cockpit !!
+- Apple Car Play/Android Auto !!
+- Recunoas);D:D:k:str(name):v:str(Nissan Qashqai, 2018 an);D:k:str(price_mdl):v:int(253800);D:k:str(price_eur):v:int(12690);D:k:str(link):v:str(https://999.md/ro/86747301);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(STOCURI NOI Săptămânal !!
+
+GARANȚIE Fără limită de parcurs !!
+
+ !! ANUL 2018 - 2021 !! 
+
+Nissan Qash);D:D:k:str(name):v:str(Seat Altea XL, 2011 an);D:k:str(price_mdl):v:int(129000);D:k:str(price_eur):v:int(6450);D:k:str(link):v:str(https://999.md/ro/88276353);D:k:str(fuel_type):v:str(Benzinā);D:k:str(description):v:str(SEAT ALTEA XL 1.8TSI AUTOMAT AN 2011
+STARE TEHNICA FT BUNA 
+COMPLECTATIE FT BOGATA 
+OFERIM INMATRICU);D:D:k:str(name):v:str(BMW X1, 2021 an);D:k:str(price_mdl):v:int(399800);D:k:str(price_eur):v:int(19990);D:k:str(link):v:str(https://999.md/ro/87780039);D:k:str(fuel_type):v:str(Hybrid);D:k:str(description):v:str(Cod produs: 402766
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+BMW X1, xDrive, 1.5 P);D:D:k:str(name):v:str(Renault Kadjar, 2018 an);D:k:str(price_mdl):v:int(269800);D:k:str(price_eur):v:int(13490);D:k:str(link):v:str(https://999.md/ro/88062846);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 581750
+ 
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Renault Kadjar, 1.5);D:D:k:str(name):v:str(Peugeot 3008, 2020 an);D:k:str(price_mdl):v:int(333800);D:k:str(price_eur):v:int(16690);D:k:str(link):v:str(https://999.md/ro/88130842);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(Cod produs: 433134
+
+Fără parcurs în Moldova !!!
+Exploatată doar în Europa !!!
+
+Peugeot 3008, 1.5 Die);D:D:k:str(name):v:str(Seat Toledo, 2015 an);D:k:str(price_mdl):v:int(189980);D:k:str(price_eur):v:int(9499);D:k:str(link):v:str(https://999.md/ro/88051146);D:k:str(fuel_type):v:str(Diesel);D:k:str(description):v:str(CREDIT - LEASING - SCHIMB - TRANSFER 
+
+Ofertele de tip - ( Schimb = Auto + $ ) le trimiteți la adres)
